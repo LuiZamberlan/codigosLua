@@ -57,3 +57,4 @@ function fatorial(n)
 end
 
 fatorial(5)
+--resultado de !5
