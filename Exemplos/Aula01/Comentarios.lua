@@ -1,0 +1,11 @@
+-- Comentário curto...
+
+--[[
+
+Comentário
+
+Longo
+
+...
+
+]]--
